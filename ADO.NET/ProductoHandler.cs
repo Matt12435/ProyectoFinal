@@ -11,7 +11,7 @@ namespace ProyectoFinal
     {
 
         // String que me permite conectarme a mi Base de Datos (BD)
-        public const string connectionString = "Server=DESKTOP-2QV2INM;Database=SistemaGestion;Trusted_Connection=True"; 
+        public const string connectionString = "Server=DESKTOP-BFEDFK8;Database=SistemaGestion;Trusted_Connection=True"; 
 
 
         // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 

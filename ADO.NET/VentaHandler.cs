@@ -10,7 +10,7 @@ namespace ProyectoFinal
     public static class VentaHandler// Clase encargada de proporcionar los métodos necesarios para manipular los objetos de la clase "Venta"
     {
 
-        public const string connectionString = "Server=DESKTOP-2QV2INM;Database=SistemaGestion;Trusted_Connection=True";
+        public const string connectionString = "Server=DESKTOP-BFEDFK8;Database=SistemaGestion;Trusted_Connection=True";
 
 
         // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
